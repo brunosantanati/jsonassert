@@ -12,6 +12,7 @@ repositories {
 }
 
 dependencies {
+    implementation("org.json:json:20220924")
     testImplementation(kotlin("test"))
     testImplementation("org.skyscreamer:jsonassert:1.5.1")
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.9.1")
