@@ -13,6 +13,10 @@ repositories {
 
 dependencies {
     testImplementation(kotlin("test"))
+    testImplementation("org.skyscreamer:jsonassert:1.5.1")
+    testImplementation("org.junit.jupiter:junit-jupiter-api:5.9.1")
+
+
 }
 
 tasks.test {
