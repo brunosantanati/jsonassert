@@ -1,0 +1,1 @@
+https://zarinfam.medium.com/how-to-compare-two-json-structures-in-java-when-the-order-of-fields-keeps-changing-f844df37e45a
